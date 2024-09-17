@@ -1,0 +1,27 @@
+.showcase_video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float:center;
+}
+h1 {
+   font-weight: bold;
+}
+.git_ing {
+    font-weight: bold;
+    margin: 49%
+}
+
+p{
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    margin: 21px 20%;
+}
+
+#fa-github2{
+    color: black;
+    position: absolute;
+    top: 17%;
+    left: 50%;
+}
